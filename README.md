@@ -1,8 +1,8 @@
-### Servers To Target
+### Servers To Target:
 
-Target Servers :
-Developer
-Nitro
-Community
+Target Servers :<br>
+Developer<br>
+Nitro<br>
+Community<br>
 
 — clash 02/15/2022
