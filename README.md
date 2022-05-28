@@ -1,6 +1,3 @@
-# Methods-By-Clash
-BY CLASH !!??!?! :pleading:
-
 ### Servers To Target
 
 Target Servers :
